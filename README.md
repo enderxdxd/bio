@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/henrique-costa-8a4079218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/henrique-costa-8a4079218/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23547891/henrique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23547891/henrique" height="30" width="40" /></a>
 <a href="https://instagram.com/instagram.com/henriquepcxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/henriquepcxd/" height="30" width="40" /></a>
-<a href="judge.beecrowd.com/pt/users/statistics/965323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://judge.beecrowd.com/pt/users/statistics/965323" height="30" width="40" /></a>
+<a href="judge.beecrowd.com/pt/users/statistics/965323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="[https://judge.beecrowd.com/pt/users/statistics/965323](https://judge.beecrowd.com/pt/users/statistics/965323)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
